@@ -34,12 +34,12 @@ footer {
 
 nav {
     background-color: beige;
-    padding: auto;
+    padding: 4rem;
 }
 
 nav a {
     color: #333;
-    padding: auto;
+    padding: 6rem;
     display: block;
 }
 
@@ -52,5 +52,5 @@ main img {
     margin: auto;
     border: #eee;
     padding: 2rem;
-    box-shadow: #000;
+    box-shadow: #333;
 }
