@@ -52,5 +52,5 @@ main img {
     margin: auto;
     border: #eee;
     padding: 2rem;
-    box-shadow: #eee;
+    box-shadow: 5px 5px gray;
 }
