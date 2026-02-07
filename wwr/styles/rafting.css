@@ -39,6 +39,7 @@ article {
 
 .hero {
     position: relative;
+
 }
 
 .hero img {
@@ -65,4 +66,12 @@ article {
 .hero article img {
     float: right;
     width: 125px;
+}
+
+.hero h1 {
+    position: absolute;
+}
+
+.hero article {
+    position: absolute
 }
