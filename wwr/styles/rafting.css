@@ -65,11 +65,18 @@ h1 {
 }
 
 .hero h1 {
-    position: absolute
+    position: absolute;
+    top: 1rem;
+    width: 100%;
+    color: var(--secondary-color);
 }
 
 .hero article {
-    position: absolute
+    position: absolute;
+    top: 10rem;
+    left: 4rem;
+    right: 4rem;
+    opacity: .7;
 }
 
 h1,
@@ -81,4 +88,8 @@ h2 {
 article {
     background-color: var(--accent2-color);
     color: var(--secondary-color);
+}
+
+article p {
+    color: var(--accent2-color)
 }
