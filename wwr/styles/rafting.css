@@ -77,3 +77,8 @@ h2 {
     font-family: var(--heading-font);
     color: var(--primary-color);
 }
+
+article {
+    font-family: var(--accent2-color);
+    color: var(--secondary-color);
+}
